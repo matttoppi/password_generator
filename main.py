@@ -1,4 +1,9 @@
-# random password generator of a requested length
+"""
+random password generator of a requested length
+
+
+created by. Matt Toppi
+"""
 
 import random
 import string
