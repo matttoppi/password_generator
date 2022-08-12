@@ -16,12 +16,10 @@ def generate_password(length):
     return password
 
 
-
 def __main__():
     length = int(input("Enter the length of the password: "))
     password = generate_password(length)
     print(password)
-
 
 
 if __name__ == "__main__":
